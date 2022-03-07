@@ -1,0 +1,43 @@
+/* nav style*/
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+nav{
+    align-items: center;
+    text-align: center;
+    
+}
+nav> li{
+    list-style: none;
+    display: inline;
+    padding: 5px;
+    font-size:larger;
+    font-family: "Permanent Marker", cursive;
+    
+}
+nav li a{
+    color: yellow;
+    text-decoration: none;
+}
+
+nav > li a:hover{
+    color: orange;
+}
+
+.fresh {
+    background-image: url(/img/stock.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    height: 600px;
+}
+.lash{
+    background-color: rgba(0, 0, 0, 0.739);
+    height: 600px;
+}
+h1{
+    font-size: 85px;
+    font-family: "Permanent Marker", cursive;
+    color: yellow;
+    margin-left: 35%;
+    margin-top: 20%;
+}
