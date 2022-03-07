@@ -1,5 +1,6 @@
 /* nav style*/
 @import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&display=swap');
 
 nav{
     align-items: center;
@@ -40,4 +41,22 @@ h1{
     color: yellow;
     margin-left: 35%;
     margin-top: 20%;
+}
+
+/* About section */
+h2{
+    font-family: 'Gabriela', serif;
+    font-size: 55px;
+    text-align: center;
+}
+.desh{
+    display: flex;
+}
+.art img{
+    box-shadow: 6px 6px 6px rgba(34, 33, 33, 0.945);
+    border-radius: 6px;
+}
+.dash{
+    font-size: 26px;
+    padding-left: 20px;
 }
