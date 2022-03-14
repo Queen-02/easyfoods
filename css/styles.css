@@ -6,6 +6,7 @@ nav{
     align-items: center;
     text-align: center;
     
+    
 }
 nav> li{
     list-style: none;
@@ -59,4 +60,37 @@ h2{
 .dash{
     font-size: 26px;
     padding-left: 20px;
+}
+
+/* menu side */
+#menu{
+    background-image: url(/img/bod.jpeg);
+    background-repeat: no-repeat;
+    height: 400px;
+    background-size: cover;
+}
+.long{
+    background-color: rgba(0, 0, 0, 0.705);
+    height: 400px;
+    background-size: cover;
+}
+.rangi{
+    color: white;
+}
+.prep{
+    display: flex;
+    padding: 6px;
+}
+.lass{
+    height:200px;
+    width: 350px;
+    padding-left: 10px;
+}
+ h3{
+    color: white;
+    font-family: 'Gabriela', serif;
+    text-align: center;
+}
+.drin{
+    padding-left: 15px;
 }
