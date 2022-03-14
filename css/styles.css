@@ -81,10 +81,8 @@ h2{
     display: flex;
     padding: 6px;
 }
-.lass{
-    height:200px;
-    width: 350px;
-    padding-left: 10px;
+.lass img{
+    padding-right: 5px;
 }
  h3{
     color: white;
@@ -92,5 +90,10 @@ h2{
     text-align: center;
 }
 .drin{
-    padding-left: 15px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.ceil{
+    padding-left: 6.5px;
+
 }
